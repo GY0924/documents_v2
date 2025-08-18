@@ -6,7 +6,7 @@
 
 * **PiKVM Configuration** using **supporter's personal laptop** through **AnyDesk**
 
-    📖 <a href="PiKVM_Setup_Guide.pdf" download>*PiKVM_Setup_Guide.pdf*</a>
+    📖 <a href="PiKVM_Setup_Guide.pdf" download="PiKVM_Setup_Guide.pdf">*PiKVM_Setup_Guide.pdf*</a>
 
     * Connect to KVM using SSH
         ```
