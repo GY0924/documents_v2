@@ -3,3 +3,5 @@
 ## Useful Resources Links
 
 ## Articles posted
+
+## Technical Study
