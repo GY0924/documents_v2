@@ -13,3 +13,6 @@ https://www.tutorialspoint.com/swift/swift_sets.htm
 
 [ 08/18/2025 ] Higher-Order Functions\
 https://www.tutorialspoint.com/swift/swift_higher_order_functions.htm
+
+[ 08/18/2025 ] Closures\
+https://www.tutorialspoint.com/swift/swift_closures.htm
