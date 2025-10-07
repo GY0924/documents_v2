@@ -60,3 +60,4 @@
 
 * VM Workstation Setup ( Windows OS, Tailscale-VPN )
 * Sign in PiKVM & Company Laptop through IP Address from Tailscale
+* All communications must be done in UDP protocol
